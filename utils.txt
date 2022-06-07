@@ -1,0 +1,6 @@
+header: background color: #00CCFF
+	color: #ffffff
+
+
+Footer: background color: #4C4C4C
+	color: #ffffff
