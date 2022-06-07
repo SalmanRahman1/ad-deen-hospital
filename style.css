@@ -13,10 +13,21 @@
 .container{
     display: flex;
     justify-content: center;
+    width: 100%;
+    
 }
 .container img{
     width: 100%;
 }
+.sidebar{
+    width: 20%;
+    background-color: #7c7c7c;
+}
+.right{
+ width: 80%;
+}
+
+
 .footer{
     background-color:  #4C4C4C;
     color: #fff;
